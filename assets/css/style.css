@@ -1,3 +1,6 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@400..700&family=Oswald:wght@200..700&display=swap');
+
+
 * {
     padding: 0;
     margin: 0;
@@ -89,13 +92,13 @@ img {
 }
 
 .item-category p {
-    font-family: "Dharma Gothic M", sans-serif;
+    font-family: "Oswald", sans-serif;
     font-size: 40px;
     text-transform: uppercase;
 }
 
 .item-name p {
-    font-family: "RL-Unno Test", sans-serif;
+    font-family: "Dancing Script", sans-serif;
     font-size: 120px;
     line-height: 90%;
 }
